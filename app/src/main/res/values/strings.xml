@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pagefound</string>
+    <string name="auth0_domain">dev-ejxjd42cogat3qdz.us.auth0.com</string>
+    <string name="aut0_clientId">IcT5wPaRq8m3ILinQRaGwW6YhTquscSD</string>
+    <string name="auth0Scheme">demo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
